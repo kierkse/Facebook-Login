@@ -8,4 +8,4 @@ o ajuste de tamanho dos mesmos.
 ## Para rodar a página:
 
 - Instale index.html e as pastas css/ e img/;
-- Abra a pasta index.html com o seu navegador de preferência
+- Abra o arquivo index.html com o seu navegador de preferência
